@@ -1,0 +1,49 @@
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+Z:\Графические интерфейсы\2022.10.14\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\TANYA\Documents\Учебные материалы\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\TANYA\Documents\Study\Программирование\ILW3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
